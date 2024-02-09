@@ -1,0 +1,2 @@
+six_dof_spatial_manipulator-master
+-DCATKIN_DEVEL_PREFIX=/home/archnoid/urdf_recruitment_ws/devel -DCMAKE_INSTALL_PREFIX=/home/archnoid/urdf_recruitment_ws/install -G Unix Makefiles
